@@ -8,5 +8,6 @@ Practice for deep understanding what is neural network and how to make my own ne
 - [miniconda](https://docs.conda.io/projects/miniconda/en/latest/)
 - [pycharm](https://www.jetbrains.com/pycharm/download/?section=windows#section=windows)
 - [jupyter notebook](https://jupyter.org/)
-- [minst](https://github.com/cvdfoundation/mnist)
+- [minst official](https://github.com/cvdfoundation/mnist)
+- [minst being used in this project](https://www.kaggle.com/datasets/oddrationale/mnist-in-csv)
 
